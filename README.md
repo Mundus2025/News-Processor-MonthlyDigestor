@@ -26,7 +26,7 @@
 - **Smart dependency checking** - Only installs what's needed
 - **Background processing** - Non-blocking UI operations
 - **Optimized downloads** - ZIP files with only final outputs
-- **GPT-4o integration** - Latest OpenAI model for better results
+- **GPT-4.1 integration** - Latest OpenAI model for better results
 
 ---
 
@@ -118,7 +118,7 @@ Click **"Generate Monthly Digest"** and watch real-time progress:
 1. 📄 **News Extraction** - Parse markdown files
 2. 🔗 **Story Chaining** - Link related articles using AI
 3. 🔄 **Story Merging** - Combine related stories
-4. 🧠 **AI Summarization** - Generate summaries with GPT-4o
+4. 🧠 **AI Summarization** - Generate summaries with GPT-4.1
 5. 📊 **Categorization** - Classify stories by topic
 6. 📄 **Document Generation** - Create professional Word documents
 
@@ -146,7 +146,7 @@ graph LR
 ### Technology Stack
 - **Backend**: Flask + SocketIO for real-time communication
 - **Frontend**: Bootstrap 5 + Vanilla JavaScript
-- **AI Processing**: OpenAI GPT-4o
+- **AI Processing**: OpenAI GPT-4.1
 - **Data Processing**: Pandas, scikit-learn
 - **Document Generation**: python-docx
 - **File Formats**: Markdown, CSV, Excel, Word
@@ -213,7 +213,7 @@ Mundus-News-Processor/
 ## 🎯 Features
 
 ### 🌟 **Core Capabilities**
-- ✅ **AI-Powered Summarization** - GPT-4o generates concise, professional summaries
+- ✅ **AI-Powered Summarization** - GPT-4.1 generates concise, professional summaries
 - ✅ **Smart Story Chaining** - Links related articles across multiple days
 - ✅ **Automatic Categorization** - ML + AI hybrid classification system
 - ✅ **Multi-Country Support** - Specialized processing for Sweden, Finland, Poland
@@ -321,7 +321,7 @@ Mundus-News-Processor/
 - 📱 **Mobile responsive** design
 - ⚡ **Real-time progress** tracking with WebSocket
 - 🎯 **User-friendly launchers** for non-technical users
-- 🧠 **GPT-4o integration** for improved AI processing
+- 🧠 **GPT-4.1 integration** for improved AI processing
 - 🔧 **Smart dependency management**
 - 👥 **Multi-user support** with session isolation
 
@@ -365,7 +365,7 @@ python run_web_app.py
 
 ## 🙏 Acknowledgments
 
-- **OpenAI** - GPT-4o language model
+- **OpenAI** - GPT-4.1 language model
 - **Flask & SocketIO** - Web framework and real-time communication
 - **Bootstrap** - Frontend UI framework
 - **scikit-learn** - Machine learning capabilities

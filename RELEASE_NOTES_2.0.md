@@ -27,7 +27,7 @@ Version 2.0 represents a **complete architectural overhaul**, transforming the d
 
 ### ⚡ **Performance & Efficiency**
 - **🚀 Smart Startup**: 2-3 seconds after first setup (vs 60-120 seconds previously)
-- **🧠 AI Upgrade**: GPT-4-turbo → GPT-4o for improved processing
+- **🧠 AI Upgrade**: GPT-4-turbo → GPT-4.1 for improved processing
 - **📦 Intelligent Dependencies**: Only installs what's needed, when needed
 - **🔄 Background Processing**: Non-blocking UI with real-time updates
 
@@ -61,7 +61,7 @@ Version 2.0 represents a **complete architectural overhaul**, transforming the d
 - **Backend**: Flask + SocketIO
 - **Frontend**: Bootstrap 5 + Vanilla JavaScript
 - **Communication**: RESTful API + WebSocket
-- **Processing**: Identical pipeline with GPT-4o
+- **Processing**: Identical pipeline with GPT-4.1
 
 ### **New Components**
 ```
@@ -93,7 +93,7 @@ Version 2.0 represents a **complete architectural overhaul**, transforming the d
 ### ✅ **100% Compatible**
 - **Same Input**: Markdown files with identical format requirements
 - **Same Processing**: 6-step pipeline with identical algorithms
-- **Same AI Models**: GPT-4o for summarization and categorization
+- **Same AI Models**: GPT-4.1 for summarization and categorization
 - **Same Training Data**: Existing Excel files work without changes
 - **Same Output**: Identical Word documents and formatting
 - **Same Countries**: Sweden, Finland, Poland variants maintained
@@ -102,7 +102,7 @@ Version 2.0 represents a **complete architectural overhaul**, transforming the d
 1. **📄 News Extraction** - Parse markdown files
 2. **🔗 Story Chaining** - Link related articles using AI
 3. **🔄 Story Merging** - Combine related stories
-4. **🧠 AI Summarization** - Generate summaries with GPT-4o
+4. **🧠 AI Summarization** - Generate summaries with GPT-4.1
 5. **📊 Content Categorization** - Classify stories by topic
 6. **📄 Document Generation** - Create professional Word documents
 
@@ -131,7 +131,7 @@ Version 2.0 represents a **complete architectural overhaul**, transforming the d
 ### **Speed Enhancements**
 - **First Launch**: Same time as before (includes setup)
 - **Subsequent Launches**: **40x faster** (2-3 seconds vs 60-120 seconds)
-- **Processing Speed**: **Improved** with GPT-4o optimization
+- **Processing Speed**: **Improved** with GPT-4.1 optimization
 - **File Handling**: **Faster** with web-based uploads
 - **Multi-User**: **Concurrent** processing without conflicts
 

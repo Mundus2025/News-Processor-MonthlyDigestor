@@ -91,7 +91,7 @@ def compute_similarity(stories):
 
 def categorize_with_llm(summary, initial_category):
     """
-    Uses GPT-4o to refine the category of a news summary.
+    Uses GPT-4.1 to refine the category of a news summary.
     Takes in the second-stage categorization's assigned category and evaluates whether it fits the final report categories.
     """
     categories_list = [
@@ -111,7 +111,7 @@ def categorize_with_llm(summary, initial_category):
 
     try:
         response = client.chat.completions.create(  # ✅ Use global client
-            model="gpt-4o",
+            model="gpt-4.1",
             messages=[
                 {"role": "system", "content": "You are an expert news categorizer ensuring accurate classification of news stories."},
                 {"role": "user", "content": f"Here is a news summary:\n\n{summary}\n\n"

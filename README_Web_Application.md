@@ -179,7 +179,7 @@ Find your IP address:
 The web application provides identical functionality to the desktop version:
 
 - **Same Processing Pipeline**: All 6 steps work identically
-- **Same AI Models**: Uses GPT-4o for summarization
+- **Same AI Models**: Uses GPT-4.1 for summarization
 - **Same Training Data**: Uses existing Excel training files
 - **Same Output Format**: Generates identical Word documents
 - **Same Country Support**: Sweden, Finland, Poland variants

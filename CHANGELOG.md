@@ -29,7 +29,7 @@ All notable changes to this project will be documented in this file.
   - Multi-user concurrent processing support
 
 - **🧠 AI Model Upgrade**
-  - Upgraded from GPT-4-turbo to GPT-4o
+  - Upgraded from GPT-4-turbo to GPT-4.1
   - Improved processing speed and accuracy
   - Enhanced British English output consistency
 
